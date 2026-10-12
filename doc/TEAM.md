@@ -8,7 +8,7 @@ Trưởng nhóm/người nộp: Dương Minh Hiếu - 2A202602488
 
 Ngày lab/deadline áp dụng: 2026-10-12 23:59 — Asia/Ho_Chi_Minh (UTC+07:00)
 
-Commit dùng để chấm: c529baf
+Commit dùng để chấm: 89a09f4
 
 Mỗi nhóm nộp một repo. Điền đủ thành viên và một mục INDIVIDUAL cho từng người.
 Thực hiện độc lập theo nguyện vọng làm cá nhân hoàn chỉnh toàn bộ các phase của đề bài.
